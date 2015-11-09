@@ -1,9 +1,7 @@
 {
   "name" : "ZendServerDeploymentHelper",
   "require" : {
-    "zendframework/zendframework" : "=2.4.8",
-    "phpunit/phpunit" : "=3.7.32",
-    "mockery/mockery" : "=0.9.4"
+    "zendframework/zendframework" : "^2.4.8"
   },
   "repositories" : [ {
     "type" : "composer",
